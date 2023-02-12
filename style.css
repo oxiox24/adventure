@@ -1,3 +1,7 @@
 body {
 background-color: dodgerblue;
 }
+.title {
+    text-align: center;
+    text-decoration: none;
+}
